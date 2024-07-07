@@ -1,0 +1,13 @@
+server:
+  error:
+    include-message: ALWAYS
+
+spring:
+  application:
+    name: @project.name@
+    version: @project.version@
+    description: @project.description@
+    termsOfService:
+    license:
+      name: Marco Pappalardo
+      url: "https://juliusbaer.com"
